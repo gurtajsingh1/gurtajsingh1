@@ -17,6 +17,8 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="75" /></a>  
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="75" /></a>  
+<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="75" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="75" /></a>  
 </div>  
 
 
