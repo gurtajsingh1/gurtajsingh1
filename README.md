@@ -1,8 +1,8 @@
 
-<h3 align="center">♫ Now Playing</h3>
+<h3 align="center">♫ OG — Now Playing</h3>
 
 <p align="center">
-  <a href="./BS.mp3">
-    <img src="https://img.shields.io/badge/▶_Play-Baby_Shark-1DB954?style=for-the-badge&logo=musicbrainz&logoColor=white" alt="OG"/>
-  </a>
+  <audio controls>
+    <source src="./OG.mp3" type="audio/mpeg">
+  </audio>
 </p>
