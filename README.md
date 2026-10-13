@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**gurtajsingh1/gurtajsingh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🦈 BABY SHARK 🦈</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
+       width="300"
+       alt="Baby Shark"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🎵 DOO DOO DOO DOO DOO DOO 🎵</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/results?search_query=baby+shark+official+song">
+    <img src="https://img.shields.io/badge/▶_PLAY_BABY_SHARK-FF1493?style=for-the-badge"
+         alt="Play Baby Shark"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>You've officially entered the Baby Shark zone. 🦈</b>
+</p>
